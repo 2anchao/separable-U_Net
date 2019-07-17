@@ -43,8 +43,10 @@
 
 ## Visual
 >> **Segmentation result:**
+
 ![segmentation result1](save_visual/1.jpg)
 ![segmentation result2](save_visual/2.jpg)
+
 ## Analysis
 >> There are still many improvements can use in this project, I just attempt to use separable convolution, dilate convolution and residual structure to unet. The result is better than original unet in my datasets. And the final use of the model is linear output, adding the sigmiod activate function may be better. The epoch of model training is less, and the effect of continuing training may be better.
 
