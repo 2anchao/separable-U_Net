@@ -1,10 +1,10 @@
 # peparable-U_Net
-# Model 
+## Model 
 >>I modified the u_net model named separable-u_net
 
 >> reference the Mobilenet model, I use the separable convolution into unet.
 
-# Environment
+## Environment
 >> if you want to implement this repository.the environment need build as follow:
 
 >>>> python==3.6 
@@ -17,7 +17,7 @@
 
 >>>> tensorboardX
 
-# Script interpret
+## Script interpret
 
 >> the script dataprocess.py is for data read,it's actually a iterable.
 
@@ -29,7 +29,7 @@
 
 >> the script visual_res.py is for visualize the model test result.
 
-# Result
+## Result
 >> I trained 30 epochs.bitch size is 3.
 
-<img src="https://github.com/2anchao/separable-U_Net/tree/master/images/Train_Loss.svg" width="150" height="150" alt="load error"/>
+<img src="https://github.com/2anchao/separable-U_Net/tree/master/images/1.png" width="300" height="150" alt="load error"/>
