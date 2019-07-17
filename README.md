@@ -32,6 +32,7 @@
 ## Train 
 >> I trained 30 epochs.bitch size is 3.
 >> when you establish the environment,then can implement this project in terminal by "python train.py"
+
 >> **Train loss and Train miou：**
 
 ![Train loss and Train miou](images/1.png)
