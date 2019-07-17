@@ -5,7 +5,7 @@
 >> reference the Mobilenet model, I use the separable convolution into unet.
 
 ## Environment
->> if you want to implement this project.the environment need build as follow:
+>> If you want to implement this project.the environment need build as follow:
 
 >>>> python==3.6 
 
@@ -19,29 +19,29 @@
 
 ## Script interpret
 
->> the script dataprocess.py is for data read,it's actually a iterable.
+>> The script dataprocess.py is for data read,it's actually a iterable.
 
->> the script metrics.py is defined miou.
+>> The script metrics.py is defined miou.
 
->> the script model_dw.py is the modified unet called separable-unet.
+>> The script model_dw.py is the modified unet called separable-unet.
 
->> the script train.py is for train the model.
+>> The script train.py is for train the model.
 
->> the script visual_res.py is for visualize the model test result.
+>> The script visual_res.py is for visualize the model test result.
 
 ## Train 
 >> I trained 30 epochs.bitch size is 3.
 >> when you establish the environment,then can implement this project in terminal by "python train.py"
->> Train loss and Train miou：
+>> **Train loss and Train miou：**
 
 ![Train loss and Train miou](images/1.png)
 
-Valid loss and Valid miou：
+>> **Valid loss and Valid miou：**
 
 ![Valid loss and Valid miou](images/2.png)
 
 ## Visual
->> Segmentation result:
+>> **Segmentation result:**
 ![segmentation result1](save_visual/1.jpg)
 ![segmentation result2](save_visual/2.jpg)
 ## Analysis
