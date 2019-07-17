@@ -25,12 +25,13 @@
 
 >> the script model_dw.py is the modified unet called separable-unet.
 
->> the script train.py is for train the model,so when you establish the environment,then can implement this repository in terminal by "python train.py".
+>> the script train.py is for train the model.
 
 >> the script visual_res.py is for visualize the model test result.
 
-## Result
+## Train 
 >> I trained 30 epochs.bitch size is 3.
+>> when you establish the environment,then can implement this project in terminal by "python train.py"
 >> Train loss and Train miou：
 
 ![Train loss and Train miou](images/1.png)
@@ -43,13 +44,11 @@ Valid loss and Valid miou：
 >> the segmentation result:
 
 ![segmentation result1](save_visual/1.jpg)
-
 ![segmentation result2](save_visual/2.jpg)
-
 ![segmentation result3](save_visual/3.jpg)
 
 ## Analysis
->> There are still many improvements can use in this repository, I just attempt to use separable convolution, dilate convolution and residual structure to unet. The result is better than original unet in my datasets. And the final use of the model is linear output, adding the sigmiod activate function may be better. The epoch of model training is less, and the effect of continuing training may be better.
+>> There are still many improvements can use in this project, I just attempt to use separable convolution, dilate convolution and residual structure to unet. The result is better than original unet in my datasets. And the final use of the model is linear output, adding the sigmiod activate function may be better. The epoch of model training is less, and the effect of continuing training may be better.
 
 ## Attention
 >> The project was completed by me independently for academic exchange. For commercial use, please contact me by email an_chao1994@163.com.
