@@ -32,4 +32,4 @@
 # Result
 >> I trained 30 epochs.bitch size is 3.
 
-<div align=center><img width="150" height="150" src="https://github.com/2anchao/separable-U_Net/tree/master/images/Train_Loss.svg"/></div>
+<img src="https://github.com/2anchao/separable-U_Net/tree/master/images/Train_Loss.svg" width="150" height="150" alt="load error"/>
