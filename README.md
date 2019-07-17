@@ -41,7 +41,7 @@ Valid loss and Valid miou：
 ![Valid loss and Valid miou](images/2.png)
 
 ## Visual
->> the segmentation result:
+>> Segmentation result:
 ![segmentation result1](save_visual/1.jpg)
 ![segmentation result2](save_visual/2.jpg)
 ## Analysis
