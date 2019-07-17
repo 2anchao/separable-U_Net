@@ -5,7 +5,7 @@
 >> reference the Mobilenet model, I use the separable convolution into unet.
 
 ## Environment
->> if you want to implement this repository.the environment need build as follow:
+>> if you want to implement this project.the environment need build as follow:
 
 >>>> python==3.6 
 
