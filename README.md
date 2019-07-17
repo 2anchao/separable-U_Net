@@ -39,7 +39,7 @@
 
 >> **Valid loss and Valid miou：**
 
-![Valid loss and Valid miou](images/2.png)
+<div align=center><src=images/2.png/></div>
 
 ## Visual
 >> **Segmentation result:**
