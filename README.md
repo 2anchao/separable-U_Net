@@ -32,4 +32,6 @@
 ## Result
 >> I trained 30 epochs.bitch size is 3.
 
-<img src="https://github.com/2anchao/separable-U_Net/tree/master/images/1.png" width="300" height="150" alt="load error"/>
+![Train loss and Train miou](https://github.com/2anchao/separable-U_Net/tree/master/images/1.png)
+
+![Valid loss and Valid miou](https://github.com/2anchao/separable-U_Net/tree/master/images/2.png)
