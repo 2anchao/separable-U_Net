@@ -1,4 +1,4 @@
-# peparable-U_Net
+# Peparable-U_Net
 ## Model 
 >>I modified the u_net model named separable-u_net
 
@@ -31,7 +31,27 @@
 
 ## Result
 >> I trained 30 epochs.bitch size is 3.
+>> Train loss and Train miou：
 
 ![Train loss and Train miou](images/1.png)
 
+Valid loss and Valid miou：
+
 ![Valid loss and Valid miou](images/2.png)
+
+## Visual
+>> the segmentation result:
+
+![segmentation result1](save_visual/1.jpg)
+
+![segmentation result2](save_visual/2.jpg)
+
+![segmentation result3](save_visual/3.jpg)
+
+## Analysis
+>> There are still many improvements can use in this reporsitory, I just attempt to use separable convolution, dilate convolution and residual structure to unet. The result is better than original unet in my datasets. And the final use of the model is linear output, adding the sigmiod activate function may be better. The epoch of model training is less, and the effect of continuing training may be better.
+
+## Attention
+>> The project was completed by me independently for academic exchange. For commercial use, please contact me by email an_chao1994@163.com.
+
+
