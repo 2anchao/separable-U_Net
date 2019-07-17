@@ -35,15 +35,14 @@
 
 >> **Train loss and Train miou：**
 
-![Train loss and Train miou](images/1.png)
+>>>> ![Train loss and Train miou](images/1.png)
 
 >> **Valid loss and Valid miou：**
 
-<div align=center><src=images/2.png/></div>
+>>>> ![Valid loss and Valid miou](images/2.png)
 
 ## Visual
 >> **Segmentation result:**
-
 ![segmentation result1](save_visual/1.jpg)
 ![segmentation result2](save_visual/2.jpg)
 
