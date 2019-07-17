@@ -1,4 +1,4 @@
-# Peparable-U_Net
+# Separable-U_Net
 ## Model 
 >>I modified the u_net model named separable-u_net
 
